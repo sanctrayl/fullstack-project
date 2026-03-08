@@ -1,7 +1,10 @@
 # fullstack-project
 
 ## DB
-SQL code:
+
+SQL code used to create the car table:
+
+```SQL code:
 
 CREATE TABLE car (
     id INT AUTO_INCREMENT PRIMARY KEY,
